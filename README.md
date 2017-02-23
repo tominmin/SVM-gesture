@@ -1,2 +1,2 @@
 # SVM-gesture  
-![my image](picture/gesture_GUI.jpg)
+<img src="picture/gesture_GUI.jpg" width="320px">
