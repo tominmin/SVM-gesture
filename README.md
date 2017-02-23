@@ -14,7 +14,9 @@ This can detect 14 motions.
 AVR refered:<http://makezine.jp/blog/2015/10/apds-9960.html>
 #how to use
 1.Write gesture_sensing.ino to your AVR or Arduino,use modified library uploaded.  
-2.Adjust "COM port" in gesture_detect_ML.py,and compile below.  
+`wiring A5-SCL,A4-SDA,D2-INT,GND-GND,3.3V-LED&VDD`
+
+2.Adjust "COM port" in gesture_detect_ML.py,and compile below.  
 `python gesture_detect_ML.py`
 
 <img src="picture/gesture_GUI.jpg" width="320px">
