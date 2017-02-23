@@ -3,9 +3,10 @@ Motion detection of gesture sensor (APDS9960) by using machine learning (Support
 Original library can detect 6motions(not using machine learning).
 <https://www.sparkfun.com/products/12787>
 
-Refered page tried to detect 10 motions by using machine learning.       
-But failed to scaling fetched data and didn't optimize hyper parameter of SVM(use linear-SVM).  
-(but thanks too much this previous research)
+Refered page tried to detect 10 motions by using machine learning.     
+But failed to scaling fetched data and didn't optimize hyper parameter of SVM(use linear-SVM).
+
+(though really thanks too much this previous research)
 <https://github.com/flaket/gesture-machine-learning>
 
 Also I modified above problem,and add GUI to convenient controll.
