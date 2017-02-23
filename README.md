@@ -11,8 +11,7 @@ also I modified above problem,and add GUI to convenient controll.
 this can detect 14 motions.
 AVR refered:<http://makezine.jp/blog/2015/10/apds-9960.html>
 #how to use
-** code **    
-        python
-
+`python gesture_detect_ML.py`
 <img src="picture/gesture_GUI.jpg" width="320px">
+`python window_gesture_fin.py`
 <img src="picture/gesture_window.png" width="320px">
