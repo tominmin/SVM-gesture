@@ -11,7 +11,7 @@ also I modified above problem,and add GUI to convenient controll.
 this can detect 14 motions.
 AVR refered:<http://makezine.jp/blog/2015/10/apds-9960.html>
 #how to use
-'$hoge1=1'
+　　　　$hoge1=1
 
 <img src="picture/gesture_GUI.jpg" width="320px">
 <img src="picture/gesture_window.png" width="320px">
